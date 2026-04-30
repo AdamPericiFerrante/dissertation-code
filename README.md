@@ -17,3 +17,13 @@ The empirical study focuses on:
 Find attached in this repository the data set used in this dissertation which contains the USD/EUR spot exchange rate within the period (2015-2025) interpolated for non-trading days, as well as other variables considered for future multivariate studies. 
 
 Please download the CSV file and import it into your R workspace.
+
+## Output
+
+The script produces:
+
+-Summary statistics (mean, variance, skewness, kurtosis)
+-Stationarity test results
+-Distribution fitting outputs
+-Control charts based on Indiviuals' Modified EWMA-type methods
+
