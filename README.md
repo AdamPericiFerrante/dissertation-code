@@ -3,7 +3,7 @@
 This repository contains the R code used in my dissertation. It includes both an empirical study based on financial data and a simulation study evaluating the performance of EWMA-type control charts under non-normal distributions.
 
 ## Repository Structure
-**empirical-study/**  
+- **empirical-study/**  
   Analysis of USD/EUR exchange rate data. Includes data transformation, distribution fitting, stationarity testing, and implementation of EWMA-based control charts.
 
 - **simulation-study/**  
