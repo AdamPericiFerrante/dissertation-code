@@ -1,4 +1,4 @@
-# Dissertation Code: EWMA Control Charts under Non-Normality
+# Dissertation Code: Individuals-Based Modified EWMA Control Charts for Non-Normality conditions
 
 This repository contains the R code used in my dissertation. It includes both an empirical study based on financial data and a simulation study evaluating the performance of EWMA-type control charts under non-normal distributions.
 
