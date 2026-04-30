@@ -22,8 +22,7 @@ Please download the CSV file and import it into your R workspace.
 
 The script produces:
 
--Summary statistics (mean, variance, skewness, kurtosis)
--Stationarity test results
--Distribution fitting outputs
--Control charts based on Indiviuals' Modified EWMA-type methods
-
+- Summary statistics (mean, variance, skewness, kurtosis)  
+- Stationarity test results  
+- Distribution fitting outputs  
+- Control charts based on Indiviuals' Modified EWMA-type methods 
